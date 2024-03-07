@@ -1,6 +1,6 @@
 # NTO3D: Neural Target Object 3D Reconstruction with Segment Anything
 
-Official code release for [NTO3D: Neural Target Object 3D Reconstruction with Segment Anything](https://arxiv.org/pdf/2309.12790).
+Official code release for [NTO3D: Neural Target Object 3D Reconstruction with Segment Anything](https://arxiv.org/pdf/2309.12790)  (Accepted by CVPR 2024, arxiv to be updated).
 
 <p align='center'>
   <b>
